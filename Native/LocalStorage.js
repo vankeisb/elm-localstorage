@@ -14,7 +14,7 @@ function make(elm) {
 
     var setItem = function (item) {
       return function (val) {
-        localStorage.setItem(item, val);
+        localStorage.setItem(item, JSON.stringify(val));
         return Task.succeed(Utils.Tuple0);
       };
     };
