@@ -1,4 +1,4 @@
-module LocalStorage (get, set, remove, clear) where
+module LocalStorage exposing (get, set, remove, clear)
 
 {-| A library for interacting with localStorage.
 
