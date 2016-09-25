@@ -1,4 +1,4 @@
-var _francescortiz$elm_localstorage$Native_LocalStorage = function () {
+var _mvader$elm_localstorage$Native_LocalStorage = function () {
     var getItem = function (item) {
         var val = localStorage.getItem(item);
         return !!val ? _elm_lang$core$Maybe$Just(val) : _elm_lang$core$Maybe$Nothing;
