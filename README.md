@@ -1,5 +1,7 @@
 # elm-localstorage
 
+## Fork that works on elm 0.17
+
 This package provides very lightweight bindings to use the `localStorage` API in the most simple possible way.
 
 The module `LocalStorage` exposes four functions:
