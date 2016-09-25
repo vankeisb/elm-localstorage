@@ -37,3 +37,7 @@ Clear removes everything in localStorage. Why does it receive an empty tuple? Be
 ```elm
 LocalStorage.clear ()
 ```
+
+### Acknowledgements
+
+* @francescortiz for making it work with elm 0.17.
