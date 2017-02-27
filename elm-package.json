@@ -1,6 +1,6 @@
 {
-    "version": "1.0.3",
-    "summary": "Elm bindings to interact with localStorage.",
+    "version": "1.0.0",
+    "summary": "Localstorage tasks for Elm",
     "repository": "https://github.com/vankeisb/elm-localstorage.git",
     "license": "MIT",
     "source-directories": [
